@@ -65,17 +65,17 @@ The goal is to understand trends and patterns in the data and visualise these in
 ![13 1](https://github.com/user-attachments/assets/5624be8b-507e-4430-b8c9-2d6348679536)
 ![13 2](https://github.com/user-attachments/assets/133e7c81-a051-4332-ac3a-e810a58964b9)
 ## Key Learnings: 
-* Exploratory Data Analysis (EDA): <br />
+* Exploratory Data Analysis (EDA): 
   Conducted comprehensive EDA to uncover trends and patterns in the data.<br />
-* In-Depth Understanding of Tools:<br />
+* In-Depth Understanding of Tools:
 Mastered data manipulation and visualisation using Pandas, Matplotlib, and Seaborn.<br />
-* Data Filtering and Extraction:<br />
+* Data Filtering and Extraction:
 Applied advanced filtering techniques to isolate specific data subsets for analysis.<br />
-* Advanced Analytical Techniques:<br />
+* Advanced Analytical Techniques:
 Utilised pivot tables, query functions, and group by operations for in-depth analysis.<br />
-* Project Documentation and Reporting:<br />
+* Project Documentation and Reporting:
 Developed detailed project documentation and reporting skills.<br />
-* AI Integration:<br />
+* AI Integration:
 Leveraged AI tools like ChatGPT to enhance insights and analysis.<br />
-* Graphical Analysis:<br />
+* Graphical Analysis:
 Created and interpreted various graphs, including bar graphs, scatterplots, box plots, and heatmaps.<br />
