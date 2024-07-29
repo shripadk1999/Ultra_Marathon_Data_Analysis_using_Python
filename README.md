@@ -17,7 +17,7 @@ The goal is to understand trends and patterns in the data and visualise these in
 
 
 ## Steps Followed:
-### 1.Data Preprocessing: <br />
+### 1. Data Preprocessing: <br />
 - Imported libraries
 - Loaded data
 - Obtained data details
