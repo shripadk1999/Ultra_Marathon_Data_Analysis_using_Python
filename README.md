@@ -2,13 +2,13 @@
 ![Ultra Marathon Data Analysis Project](https://github.com/user-attachments/assets/d21c9387-b0eb-41a4-8c10-9823c328df03)
 
 ## Table Of Content
-Problem Statement <br />
-Steps Followed <br />
-* Data Preprocessing <br />
-* Data Cleaning <br />
-* Data Finalisation <br />
-* Data Visualisation and Key Insights 
-Key Learnings  <br />
+- Problem Statement
+- Steps Followed
+  - Data Preprocessing
+  - Data Cleaning
+  - Data Finalisation
+  - Data Visualisation and Key Insights
+- Key Learnings
 
 ## Problem Statment:
 This project involves analysing ultra marathon race data to gain insights into various factors influencing athlete performance. <br /> 
