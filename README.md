@@ -4,10 +4,10 @@
 ## Table Of Content
 Problem Statement <br />
 Steps Followed <br />
-* 1. Data Preprocessing <br />
-* 2. Data Cleaning <br />
-* 3. Data Finalisation <br />
-* 4. Data Visualisation and Key Insights <br />
+* Data Preprocessing <br />
+* Data Cleaning <br />
+* Data Finalisation <br />
+* Data Visualisation and Key Insights <br />
 Key Learnings  <br />
 
 ## Problem Statment:
