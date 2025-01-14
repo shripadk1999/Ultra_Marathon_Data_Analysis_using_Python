@@ -79,3 +79,8 @@ Developed detailed project documentation and reporting skills.<br />
 Leveraged AI tools like ChatGPT to enhance insights and analysis.<br />
 * Graphical Analysis:
 Created and interpreted various graphs, including bar graphs, scatterplots, box plots, and heatmaps.<br />
+
+**Shripad Kulkarni**  
+- Email: [shripadkulkarni2212@gmail.com](mailto:shripadkulkarni2212@gmail.com)  
+- LinkedIn: [Shripad Kulkarni](https://www.linkedin.com/in/shripad-kulkarni-candoit)  
+- GitHub: [Shripad Kulkarni](https://github.com/shripadk1999)
